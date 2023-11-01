@@ -1,4 +1,4 @@
-Import streamlit
+import streamlit
 
 streamlit.Title('This is my first app')
 streamlit.header('Breakfast Menu')
